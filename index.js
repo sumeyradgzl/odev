@@ -1,6 +1,6 @@
   console.log("--------------------2.Soru--------------------");
 
-  let total1 = 0, total2 = 0;
+  let total1 = 0, total2 = 0
 
 function arkadassayi(num1, num2){
     
